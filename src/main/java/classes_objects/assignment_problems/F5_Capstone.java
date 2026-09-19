@@ -1,4 +1,4 @@
-package classes_objects.assigment_problems;
+package classes_objects.assignment_problems;
 public class F5_Capstone {
 
     static class FeeAccount {

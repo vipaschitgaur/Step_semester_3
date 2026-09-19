@@ -1,4 +1,4 @@
-package classes_objects.assigment_problems;
+package classes_objects.assignment_problems;
 class FeeAccount{
     private String regNo;
     private double totalFee;
