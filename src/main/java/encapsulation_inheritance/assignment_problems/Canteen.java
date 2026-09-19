@@ -1,4 +1,4 @@
-package encapsulation_inheritance.class_problems;
+package encapsulation_inheritance.assignment_problems;
 public class Canteen implements Comparable<Canteen> {
     private String canteenCode;
     private String canteenName;

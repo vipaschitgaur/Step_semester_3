@@ -1,4 +1,5 @@
-package encapsulation_inheritance.class_problems;
+package encapsulation_inheritance.assignment_problems;
+
 public class DeliveryAccount {
     protected String studentId;
     protected double orderValue;

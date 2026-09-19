@@ -1,4 +1,4 @@
-package encapsulation_inheritance.class_problems;
+package encapsulation_inheritance.assignment_problems;
 public class DeliverySlot {
     private String orderId;
     private String timeSlot;

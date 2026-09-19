@@ -1,4 +1,5 @@
-package encapsulation_inheritance.class_problems;
+package encapsulation_inheritance.assignment_problems;
+
 public final class SurgeFeeCalculator {
     private final double minimumSurgePercent;
 
