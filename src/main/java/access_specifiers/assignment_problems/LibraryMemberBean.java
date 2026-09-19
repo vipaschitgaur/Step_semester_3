@@ -1,4 +1,4 @@
-package access_specifiers.class_problems;
+package access_specifiers.assignment_problems;
 public class LibraryMemberBean {
     private String membershipId;
     private String name;

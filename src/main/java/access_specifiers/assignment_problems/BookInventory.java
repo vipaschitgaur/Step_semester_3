@@ -1,4 +1,4 @@
-package access_specifiers.class_problems;
+package access_specifiers.assignment_problems;
 public class BookInventory {
     private int copiesTotal;
     private int copiesAvailable;

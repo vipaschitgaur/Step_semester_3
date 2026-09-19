@@ -1,4 +1,4 @@
-package access_specifiers.class_problems;
+package access_specifiers.assignment_problems;
 public class AccessChecker {
     public static String classifyAccess(String fieldModifier, String accessorContext) {
         if ("public".equals(fieldModifier)) {
